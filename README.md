@@ -8,6 +8,7 @@ Some DAA LeetCode Assignment
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -28,6 +29,7 @@ Some DAA LeetCode Assignment
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -55,4 +57,8 @@ Some DAA LeetCode Assignment
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
