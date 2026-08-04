@@ -7,6 +7,7 @@ Some DAA LeetCode Assignment
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,9 @@ Some DAA LeetCode Assignment
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
