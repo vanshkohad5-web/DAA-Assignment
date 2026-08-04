@@ -9,6 +9,7 @@ Some DAA LeetCode Assignment
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
@@ -18,6 +19,7 @@ Some DAA LeetCode Assignment
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
@@ -65,4 +67,8 @@ Some DAA LeetCode Assignment
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vanshkohad5-web/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
